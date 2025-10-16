@@ -10,3 +10,4 @@ GROW AS JAVA DEVELOPER
 
 <img width="1510" height="768" alt="Screenshot 2025-10-16 at 11 03 39 PM" src="https://github.com/user-attachments/assets/52d681a3-ae2f-4781-8a94-fa9628f62fe6" />
 
+<img width="1088" height="873" alt="Screenshot 2025-10-16 at 11 20 06 PM" src="https://github.com/user-attachments/assets/51bfae0f-157e-4aa6-9067-fb1857b00662" />
